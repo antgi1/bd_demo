@@ -33,5 +33,5 @@ The correlator used here was adapted from the code by J. Ramírez [[6]](#6).
 [2] Light scattering near and from interfaces using evanescent wave and ellipsometric light scattering <a name="2">https://doi.org/10.1016/j.cocis.2009.08.004</a>  
 [3] Near-field laser Doppler velocimetry measures near-wall velocities <a name="3">https://doi.org/10.1140/epje/i2012-12062-5  </a>  
 [4] Near wall velocimetry on a rheometer <a name="4">https://doi.org/10.1122/1.5047020   </a>  
-[5] https://en.wikipedia.org/wiki/No-slip_condition  <a name="5">https://en.wikipedia.org/wiki/Dynamic_light_scattering </a>  
-[6] https://en.wikipedia.org/wiki/No-slip_condition  <a name="6">[6] https://doi.org/10.1063/1.3491098 </a>
+[5] <a name="5">https://en.wikipedia.org/wiki/Dynamic_light_scattering </a>  
+[6] Efficient on the fly calculation of time correlation functions in computer simulations <a name="6">https://doi.org/10.1063/1.3491098 </a>
