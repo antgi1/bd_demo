@@ -4,7 +4,7 @@ This is a simulation of near wall diffusion and flow as seen by the experimental
 
 You can demo the simulation online through the link below but it is recommended that you download it onto your computer as it will run faster.  
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/antgi1/bd_demo/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/antgi1/bd_demo/master?filepath=bd_simu.ipynb)
 
 
 ## Simulation
